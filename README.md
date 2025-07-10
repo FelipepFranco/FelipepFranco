@@ -17,7 +17,7 @@
 |------------|------------|-----------------------|
 | PHP, Golang (em apredizado) | Vue.js, Laravel | Git, GitHub, CI/CD, Docker |
 | HTML, CSS, JavaScript | Bootstrap, Tailwind | Linux, Nginx, Apache |
-| MySQL, Redis, DocumentDB | AngularJS | Terraform (em apredizado), Figma |
+| MySQL, Python | AngularJS | Terraform (em apredizado), Figma |
 
 ---
 
