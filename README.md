@@ -8,7 +8,6 @@
 - 📍 Atualmente atuo como **Analista de Suporte Técnico na Locaweb**, com foco em soluções de **hospedagem, e-mail, Cloud e VPS**.
 - 🚀 Desenvolvi Projetos e sistema quando fazia estagio na prefeitura da minha cidade
 - 🧰 Já trabalhei na area de  Mecânica de precisão com forte perfil **analítico e comunicativo**
-- 🔄 Durante  migração para o Desenvolvimento Web
 ---
 
 ## 💻 Tecnologias & Ferramentas
