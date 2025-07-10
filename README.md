@@ -38,5 +38,3 @@
 - 💼 LinkedIn: [https://www.linkedin.com/in/felipe-pacheco-franco-dev/]
 
 ---
-
-_“Transformando desafios técnicos em soluções simples, escaláveis e confiáveis.”_
