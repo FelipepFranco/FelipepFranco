@@ -27,6 +27,13 @@
 - ⚙️ CI/CD com GitHub Actions e Terraform
 - 🧪 Testes automatizados e monitoramento
 
+  
+## ⚡ GitHub Stats
+
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipepFranco&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipepFranco&layout=compact&langs_count=8&theme=radical)
+
 ## 📫 Como me encontrar
 
 - ✉️ Email: [fpf.felipe@hotmail.com]
